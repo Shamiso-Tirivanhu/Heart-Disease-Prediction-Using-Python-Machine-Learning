@@ -32,6 +32,18 @@ The dataset used in this project consists of 1025 instances with 13 features and
 
 - The target variable is 0 (No Heart Disease) or 1 (Heart Disease Present).
 
+Heart_csv dataset preview - the first five rows of the dataset;
+
+![image_alt]()
+
+
+
+
+
+Heart_csv dataset preview - the first five rows of the dataset;
+
+![image_alt]()
+
 ## 3. Technologies Used
 
 - Python
@@ -87,6 +99,10 @@ Confusion Matrix & Classification Report: These metrics help understand misclass
 ## 8. Results
 
 The model demonstrated a good accuracy of 80.48% on test data, making it a viable tool for preliminary heart disease screening.
+
+The accuracy score metrics was deployed and below is the performance of the dataset on both training & test data;
+
+![image_alt]()
 
 ## 9. Conclusion
 
