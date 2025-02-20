@@ -34,7 +34,7 @@ The dataset used in this project consists of 1025 instances with 13 features and
 
 Heart_csv dataset preview - the first five rows of the dataset;
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Heart-Disease-Prediction-Using-Python-Machine-Learning/blob/88b71aaf228d64687ccbf00b9aa868783ac3a3ee/A%20data%20preview%20-%20first%205%20rows%20of%20the%20dataset.png)
 
 
 
