@@ -78,7 +78,7 @@ Accuracy Score:
 
 - Testing accuracy: 80.48%
 
-Confusion Matrix & Classification Report: These metrics help understand misclassification rates.
+The only matrix that was deployed in this project was accuracy_score. It was used to ascertain whether the training and test data is accurate and correspond with each other.
 
 ## 7. How to Use
 
