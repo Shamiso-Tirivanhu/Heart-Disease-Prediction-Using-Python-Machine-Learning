@@ -102,7 +102,7 @@ The model demonstrated a good accuracy of 80.48% on test data, making it a viabl
 
 The accuracy score metrics was deployed and below is the performance of the dataset on both training & test data;
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Heart-Disease-Prediction-Using-Python-Machine-Learning/blob/894d2c00336f0d6fcf976593dfe3954c32c11b71/Accuracy%20score%20metrics%20-%20performance%20of%20the%20model.png)
 
 ## 9. Conclusion
 
