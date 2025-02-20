@@ -42,7 +42,7 @@ Heart_csv dataset preview - the first five rows of the dataset;
 
 Heart_csv dataset preview - the first five rows of the dataset;
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Heart-Disease-Prediction-Using-Python-Machine-Learning/blob/c3f489168359a69a66f45f5c00cab34ba567acfd/A%20data%20preview%20-%20the%20last%20give%20rows%20of%20the%20dataset.png)
 
 ## 3. Technologies Used
 
